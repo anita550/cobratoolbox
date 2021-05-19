@@ -24,7 +24,7 @@ folderPattern=[filesep 'new'];
 method = 'add';
 editCobraToolboxPath(basePath,folderPattern,method)
 
-initVonBertalanffy
+%initVonBertalanffy
 %% Load the training data
 
 printLevel=1;
